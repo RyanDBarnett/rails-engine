@@ -1,7 +1,7 @@
 require 'test_helper'
 
-class MerchantTest < ActiveSupport::TestCase
-  # test "the truth" do
-  #   assert true
-  # end
+RSpec.describe Merchant, type: :model do
+  describe 'validations' do
+    it { should validate_presence_of :name }
+  end
 end
