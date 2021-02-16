@@ -76,6 +76,13 @@
           null
         ]
       },
+      "/Users/ryanbarnett/turing/3module/rails-engine/app/models/item.rb": {
+        "lines": [
+          1,
+          1,
+          null
+        ]
+      },
       "/Users/ryanbarnett/turing/3module/rails-engine/app/models/merchant.rb": {
         "lines": [
           1,
@@ -96,15 +103,6 @@
       "/Users/ryanbarnett/turing/3module/rails-engine/app/models/invoice.rb": {
         "lines": [
           0,
-          0,
-          0,
-          0
-        ],
-        "branches": {
-        }
-      },
-      "/Users/ryanbarnett/turing/3module/rails-engine/app/models/item.rb": {
-        "lines": [
           0,
           0,
           0
@@ -168,6 +166,6 @@
         }
       }
     },
-    "timestamp": 1613453418
+    "timestamp": 1613454550
   }
 }
