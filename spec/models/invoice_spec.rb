@@ -1,7 +1,7 @@
 require 'test_helper'
 
-class InvoiceTest < ActiveSupport::TestCase
-  # test "the truth" do
-  #   assert true
-  # end
+RSpec.describe Invoice, type: :model do
+  describe 'validations' do
+    it { should validate_presence_of :status }
+  end
 end
